@@ -1,0 +1,1 @@
+http://touch.train.local.qunar.com:9090/h5/train/trainOrderFillOpt?startStation=%E5%8C%97%E4%BA%AC%E8%A5%BF&endStation=%E8%A5%BF%E5%AE%89%E5%8C%97&trainNum=G87&date=2016-03-19&searchType=stasta&sort=7&agentId=279&agentType=1&cat=mtrain_service_inner&bizMode=0&ticketId=4&seatType=%E4%BA%8C%E7%AD%89%E5%BA%A7
